@@ -1,0 +1,14 @@
+.flag{
+    width: 300px;
+    height: 200px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.circle{
+    width: 120px;
+    height: 120px;
+    background-color:darkred;
+    border-radius: 50%;
+}
